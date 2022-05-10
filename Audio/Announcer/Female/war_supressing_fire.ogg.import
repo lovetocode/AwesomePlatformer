@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_supressing_fire.ogg-e9df60b7ed2713467a048d5d5dc4ee26.oggstr"
+
+[deps]
+
+source_file="res://Audio/Announcer/Female/war_supressing_fire.ogg"
+dest_files=[ "res://.import/war_supressing_fire.ogg-e9df60b7ed2713467a048d5d5dc4ee26.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

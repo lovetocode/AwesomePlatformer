@@ -1,0 +1,45 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Textures/Menu/MainMenu.png" type="Texture" id=1]
+[ext_resource path="res://Scripts/MainMenu.gd" type="Script" id=2]
+[ext_resource path="res://Textures/Menu/StartButtonMouseOver.png" type="Texture" id=3]
+[ext_resource path="res://Textures/Menu/StartButton.png" type="Texture" id=4]
+
+[node name="MainMenu" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+dropdown_path = NodePath("Background/OptionButton")
+
+[node name="Background" type="Sprite" parent="."]
+position = Vector2( 518.5, 299 )
+scale = Vector2( 0.824219, 0.855556 )
+texture = ExtResource( 1 )
+
+[node name="StartButton" type="TextureButton" parent="Background"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -670.938
+margin_top = -274.675
+margin_right = -395.938
+margin_bottom = -159.675
+rect_scale = Vector2( 0.5, 0.5 )
+texture_normal = ExtResource( 4 )
+texture_hover = ExtResource( 3 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="OptionButton" type="OptionButton" parent="Background"]
+margin_left = -56.417
+margin_top = 172.987
+margin_right = 140.583
+margin_bottom = 198.987
+__meta__ = {
+"_edit_use_anchors_": false
+}

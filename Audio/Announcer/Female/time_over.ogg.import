@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/time_over.ogg-4ff6b2570423a1bfb0b3c16f3797d23f.oggstr"
+
+[deps]
+
+source_file="res://Audio/Announcer/Female/time_over.ogg"
+dest_files=[ "res://.import/time_over.ogg-4ff6b2570423a1bfb0b3c16f3797d23f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

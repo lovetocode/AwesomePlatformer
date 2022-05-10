@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/its_a_tie.ogg-1b89ce7a6215bab108d843784e1597b1.oggstr"
+
+[deps]
+
+source_file="res://Audio/Announcer/Male/its_a_tie.ogg"
+dest_files=[ "res://.import/its_a_tie.ogg-1b89ce7a6215bab108d843784e1597b1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

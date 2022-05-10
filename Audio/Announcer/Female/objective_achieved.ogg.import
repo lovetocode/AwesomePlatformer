@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/objective_achieved.ogg-051c8eb800bfdca66dfc4bcf83faaf1e.oggstr"
+
+[deps]
+
+source_file="res://Audio/Announcer/Female/objective_achieved.ogg"
+dest_files=[ "res://.import/objective_achieved.ogg-051c8eb800bfdca66dfc4bcf83faaf1e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

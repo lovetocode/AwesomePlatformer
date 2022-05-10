@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/its_a_tie.ogg-f5ea01291e6d03dca953bdc3ee4cb193.oggstr"
+
+[deps]
+
+source_file="res://Audio/Announcer/Female/its_a_tie.ogg"
+dest_files=[ "res://.import/its_a_tie.ogg-f5ea01291e6d03dca953bdc3ee4cb193.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

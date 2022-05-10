@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/war_sniper.ogg-5bae1712010bcf3ae1a5c6ab6c9ba35f.oggstr"
+
+[deps]
+
+source_file="res://Audio/Announcer/Male/war_sniper.ogg"
+dest_files=[ "res://.import/war_sniper.ogg-5bae1712010bcf3ae1a5c6ab6c9ba35f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/you_lose.ogg-bd9d2ed50ed64e1a966d3df18c64a260.oggstr"
+
+[deps]
+
+source_file="res://Audio/Announcer/Male/you_lose.ogg"
+dest_files=[ "res://.import/you_lose.ogg-bd9d2ed50ed64e1a966d3df18c64a260.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

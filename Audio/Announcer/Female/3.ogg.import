@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/3.ogg-18f5be25ec055def10f823061eebb047.oggstr"
+
+[deps]
+
+source_file="res://Audio/Announcer/Female/3.ogg"
+dest_files=[ "res://.import/3.ogg-18f5be25ec055def10f823061eebb047.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

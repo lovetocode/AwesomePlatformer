@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/you_lose.ogg-fcc30dc7463c6ffeedc58f7c6ba66ffe.oggstr"
+
+[deps]
+
+source_file="res://Audio/Announcer/Female/you_lose.ogg"
+dest_files=[ "res://.import/you_lose.ogg-fcc30dc7463c6ffeedc58f7c6ba66ffe.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/you_win.ogg-21f1e0e7499c83933a47b02aa75d40ef.oggstr"
+
+[deps]
+
+source_file="res://Audio/Announcer/Male/you_win.ogg"
+dest_files=[ "res://.import/you_win.ogg-21f1e0e7499c83933a47b02aa75d40ef.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

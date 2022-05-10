@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/final_round.ogg-7284e0189e620c086448b971ab4b6af5.oggstr"
+
+[deps]
+
+source_file="res://Audio/Announcer/Female/final_round.ogg"
+dest_files=[ "res://.import/final_round.ogg-7284e0189e620c086448b971ab4b6af5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

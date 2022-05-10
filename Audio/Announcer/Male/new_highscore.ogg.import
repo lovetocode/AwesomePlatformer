@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/new_highscore.ogg-cf1299b5dcc90d5b7e85933f405ea767.oggstr"
+
+[deps]
+
+source_file="res://Audio/Announcer/Male/new_highscore.ogg"
+dest_files=[ "res://.import/new_highscore.ogg-cf1299b5dcc90d5b7e85933f405ea767.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
